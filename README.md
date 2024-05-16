@@ -19,6 +19,7 @@ Welcome to my UI/UX Design Portfolio! This repository serves as a comprehensive 
 
 ## Attached Assets:
 Attached to this repository, you'll find assets and images that provide a visual representation of how this portfolio looks and functions. Feel free to explore and visualize the design firsthand.
+![Alt Text]()
 
 
 Thank you for taking the time to visit my portfolio. I hope you find it insightful and inspiring!
