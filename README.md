@@ -19,7 +19,7 @@ Welcome to my UI/UX Design Portfolio! This repository serves as a comprehensive 
 
 ## Attached Assets:
 Attached to this repository, you'll find assets and images that provide a visual representation of how this portfolio looks and functions. Feel free to explore and visualize the design firsthand.
-![Alt Text]()
+![PORTFOLIO](https://github.com/Hemala52/Portfolio/blob/main/Red%20Gradient%20Landing%20Page%20Simple%20Tablet%20UI%20Prototype.png?raw=true)
 
 
 Thank you for taking the time to visit my portfolio. I hope you find it insightful and inspiring!
