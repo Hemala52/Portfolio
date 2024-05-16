@@ -1,7 +1,5 @@
 # UI/UX Design Portfolio
 
----
-
 ## Introduction:
 Welcome to my UI/UX Design Portfolio! This repository serves as a comprehensive showcase of my skills, education, projects, and certifications in the field of UI/UX design. Utilizing Figma, I've crafted a visually engaging portfolio that reflects my design philosophy and expertise.
 
